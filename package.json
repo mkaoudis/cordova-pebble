@@ -1,6 +1,6 @@
 {
     "version": "0.0.1",
-    "name": "com.mkaoudis.pebble",
+    "name": "com.mkaoudis.Pebble",
     "cordova_name": "Pebble",
     "description": "Pebble Android Plugin - for TEA",
     "repo": "https://github.com/mkaoudis/cordova-pebble.git",

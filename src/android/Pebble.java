@@ -1,4 +1,4 @@
-package com.mkaoudis.pebble;
+package com.mkaoudis.Pebble;
 
 import org.apache.cordova.*;
 import org.json.JSONArray;
