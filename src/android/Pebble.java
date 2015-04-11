@@ -11,7 +11,7 @@ import android.util.*;
 import com.getpebble.android.kit.*;
 import com.getpebble.android.kit.util.*;
 
-import java.util.UUID;
+import java.util.*;
 
 public class Pebble extends CordovaPlugin {
     public static final String TAG = "PebblePlugin";
