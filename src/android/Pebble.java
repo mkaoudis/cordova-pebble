@@ -4,6 +4,8 @@ import org.apache.cordova.*;
 import org.json.JSONArray;
 import org.json.JSONException;
 
+import android.content.*;
+
 import com.getpebble.android.kit.*;
 import com.getpebble.android.kit.util.*;
 
