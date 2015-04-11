@@ -4,7 +4,7 @@
     id="com.mkaoudis.pebble"
     version="0.0.1">
     <name>Pebble</name>
-    <description>Pebble Plugin</description>
+    <description>Pebble Android Plugin - for TEA</description>
     <!-- <license>Apache 2.0</license> -->
     <keywords>pebble</keywords>
     <repo>https://github.com/mkaoudis/cordova-pebble.git</repo>
