@@ -9,4 +9,4 @@ var Pebble.isWatchConnected = function (success, error){
 	cordova.exec(success, error || genericError, 'Pebble', 'isWatchConnected', []);
 };
 
-module.exports = Pebble;
+module.exports = new Pebble();
