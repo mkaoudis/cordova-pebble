@@ -1,6 +1,6 @@
 var exec = require('cordova/exec'),
 
-    genericError = function(err){ console.error(err); };,
+    genericError = function(err){ console.error(err); },
 	Pebble = function() {
 };
 
