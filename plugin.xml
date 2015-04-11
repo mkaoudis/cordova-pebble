@@ -23,7 +23,7 @@
       </feature>
     </config-file>
 
-    <source-file src="src/android/Pebble.java" target-dir="src/com/mkaoudis/pebble" />
+    <source-file src="src/android/Pebble.java" target-dir="src/com/mkaoudis/Pebble" />
     <source-file src="src/android/pebblekit-2.6.0-eclipse.jar" target-dir="libs" />
   </platform>
 
