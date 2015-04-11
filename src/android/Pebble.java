@@ -41,7 +41,7 @@ public class Pebble extends CordovaPlugin {
         	i.putExtra("notificationData", notificationData);
 
         	Log.d(TAG, "About to send an alert to Pebble: " + notificationData);
-        	sendBroadcast(i);
+        	context.sendBroadcast(i);
         	cb.success();
         	return true;
         }
