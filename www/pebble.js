@@ -1,7 +1,7 @@
-var exec = require('cordova/exec');
+var exec = require('cordova/exec'),
 
-var Pebble = function() {
-
+    genericError = function(err){ console.error(err); };,
+	Pebble = function() {
 };
 
 Pebble.isWatchConnected = function(success, error){
