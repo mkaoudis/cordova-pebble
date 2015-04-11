@@ -4,7 +4,7 @@ var Pebble = function() {
 
 };
 
-var Pebble.isWatchConnected = function (success, error){
+Pebble.isWatchConnected = function(success, error){
 	if (!success) return console.error('success callback is required');
 	cordova.exec(success, error || genericError, 'Pebble', 'isWatchConnected', []);
 };
